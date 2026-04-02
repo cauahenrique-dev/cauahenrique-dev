@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tecnologias
-- C#
+- Java
 - .NET
 - SQL
 
@@ -19,4 +19,4 @@
 
 ## 📫 Contato
 - Email: cauainf13@gmail.com
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/cauahenriqueoteixeira/
